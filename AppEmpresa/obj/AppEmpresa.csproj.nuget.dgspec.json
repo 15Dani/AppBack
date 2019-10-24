@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa\\AppEmpresa.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa.Domain\\AppEmpresa.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa.Domain\\AppEmpresa.Domain.csproj",
+        "projectName": "AppEmpresa.Domain",
+        "projectPath": "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa.Domain\\AppEmpresa.Domain.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa.Repository\\AppEmpresa.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa.Repository\\AppEmpresa.Repository.csproj",
+        "projectName": "AppEmpresa.Repository",
+        "projectPath": "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa.Repository\\AppEmpresa.Repository.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa.Domain\\AppEmpresa.Domain.csproj": {
+                "projectPath": "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa.Domain\\AppEmpresa.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa\\AppEmpresa.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa\\AppEmpresa.csproj",
+        "projectName": "AppEmpresa",
+        "projectPath": "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa\\AppEmpresa.csproj",
+        "packagesPath": "C:\\Users\\Danielia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Danielia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa.Domain\\AppEmpresa.Domain.csproj": {
+                "projectPath": "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa.Domain\\AppEmpresa.Domain.csproj"
+              },
+              "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa.Repository\\AppEmpresa.Repository.csproj": {
+                "projectPath": "C:\\Users\\Danielia\\source\\repos\\empresaNET\\AppEmpresa\\AppEmpresa.Repository\\AppEmpresa.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

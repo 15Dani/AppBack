@@ -1,0 +1,12 @@
+C:\Users\Danielia\source\repos\empresaNET\AppEmpresa\AppEmpresa.Domain\bin\Debug\AppEmpresa.Domain.dll
+C:\Users\Danielia\source\repos\empresaNET\AppEmpresa\AppEmpresa.Domain\bin\Debug\AppEmpresa.Domain.pdb
+C:\Users\Danielia\source\repos\empresaNET\AppEmpresa\AppEmpresa.Domain\obj\Debug\AppEmpresa.Domain.csprojAssemblyReference.cache
+C:\Users\Danielia\source\repos\empresaNET\AppEmpresa\AppEmpresa.Domain\obj\Debug\AppEmpresa.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Danielia\source\repos\empresaNET\AppEmpresa\AppEmpresa.Domain\obj\Debug\AppEmpresa.Domain.csproj.CopyComplete
+C:\Users\Danielia\source\repos\empresaNET\AppEmpresa\AppEmpresa.Domain\obj\Debug\AppEmpresa.Domain.dll
+C:\Users\Danielia\source\repos\empresaNET\AppEmpresa\AppEmpresa.Domain\obj\Debug\AppEmpresa.Domain.pdb
+C:\Users\Danielia\source\repos\empresaNET\AppEmpresa\AppEmpresa.Domain\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Danielia\source\repos\empresaNET\AppEmpresa\AppEmpresa.Domain\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Danielia\source\repos\empresaNET\AppEmpresa\AppEmpresa.Domain\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Danielia\source\repos\empresaNET\AppEmpresa\AppEmpresa.Domain\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Danielia\source\repos\empresaNET\AppEmpresa\AppEmpresa.Domain\bin\Debug\Microsoft.Extensions.Identity.Stores.xml
